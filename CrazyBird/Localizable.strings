@@ -1,0 +1,13 @@
+"BIRD" = "bird.png";
+
+"BACKGROUND_IMAGE_1" = "fond1.png";
+"BACKGROUND_IMAGE_2" = "fond2.png";
+"BACKGROUND_IMAGE_3" = "fond3.png";
+"BACKGROUND_IMAGE_4" = "fond4.png";
+"BACKGROUND_IMAGE_5" = "fond5.png";
+"BACKGROUND_IMAGE_6" = "fond6.png";
+
+"OBSTACLE_HAUT" = "obstacle_haut.png";
+"OBSTACLE_BAS" = "obstacle_bas.png";
+
+"ICON_SCORE" = "score.png";
